@@ -1,6 +1,6 @@
 ### Hello,  👋 I'm Joe Njenga
 
-## I'm a Passionate WordPress Developer 
+## I'm a Passionate WordPress Developer || Full Stack Web Developer
 
 * ⛏ I'm currently working as freelance WordPress, PHP & JS developer at [njengah.com](njengah.com) 
 * 📦 I'm also currently developing free and premium WordPress & WooCommerce plugins.  
