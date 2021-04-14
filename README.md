@@ -7,7 +7,7 @@
 * 🎓 I'm currently learning and using new web development technologies (Angular, React, Vue, Laravel & Sass) in my work flow. 
 
 ## WooCommerce Plugins
-I have built several custom WordPress and WooCommerce plugin for clients projects but lately I am building plugins free and premium plugins that are available here - [njengah/plugins ](njengah.com/plugins). These plugins represent the quality of my work and skill set. 
+I have built several custom WordPress and WooCommerce plugin for clients projects but lately I am building plugins free and premium plugins that are available here - [njengah/plugins ](https://njengah.com/plugins). These plugins represent the quality of my work and skill set. 
 
 * **WRAC - WooCommerce Redirect After Checkout Plugin** This plugin helps users create unlimited redirect options based on several conditional logic. Ideally its a great plugin for building WooCommerce sales funnels. You can find more about it here - [WRAC ](https://njengah.com/plugins/woocommerce-checkout-redirect-plugin)
 * **WC PayIcons - WooCommerce Payment SVG Icons Plugin** This plugin is designed to allow users to add payment SVG or PNG icons on their WooCommerce store anywhere using the shortcode. It also helps to change default payment gateway icons. You can find it here - [WC PayIcons ](https://njengah.com/plugins/woocommerce-payment-icons-footer-widget-plugin/).
