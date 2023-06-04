@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Joe Njenga
 
-## Full Stack Web Developer [PHP/JS/REACT/NODE/ PYTHON] || WordPress Developer 
+## Full Stack Web Developer [PHP/JS/REACT/NODE/ PYTHON] 
 
 * ⛏ I'm currently working as freelance WordPress, PHP & JS developer at [njengah.com](https://njengah.com/developer)
 * 📦 I'm also currently developing free and premium WordPress & WooCommerce plugins.  
