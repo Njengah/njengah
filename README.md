@@ -26,9 +26,9 @@ I'm passionate about JavaScript and have expertise in various frameworks and lib
 
 I'm always excited to work on JavaScript projects and explore new technologies within the JavaScript ecosystem.
 
-## WordPress Plugins
+## WordPress Development
 
-In addition to my development work, I have extensive experience building custom WordPress and WooCommerce plugins for various client projects. Recently, I've been focusing on creating plugins that benefit the wider community. You can find some of my work here:
+I have extensive experience building custom WordPress products(Themes & Plugins)  and WooCommerce plugins. Recently, I've been focusing on creating plugins that benefit the wider community. You can find some of my work here:
 
 - [njengah/plugins](https://njengah.com/products): A collection of free and premium plugins for WordPress and WooCommerce.
 - I'm also working on a new marketplace that will feature all the plugins I've built, along with a WordPress development tool.
