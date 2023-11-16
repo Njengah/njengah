@@ -4,7 +4,7 @@
 
 Hello! I'm Joe Njenga, a Full Stack Web Developer proficient in PHP, JavaScript, React, Vue, and Node.js. I have a passion for creating web applications and solving complex problems.
 
-- 🏢 I currently work as a freelance WordPress, PHP, and JS developer at [njengah.com](https://njengah.com/developer).
+- 🏢 I currently work as a freelance WordPress, PHP, and JS developer at [NJENGAH](https://njengah.com/developer).
 - 📦 I'm also developing both free and premium WordPress & WooCommerce plugins.
 - 🎓 I'm currently expanding my skills and knowledge in the field of Artificial Intelligence.
 
