@@ -30,7 +30,7 @@ I'm always excited to work on JavaScript projects and explore new technologies w
 
 I have extensive experience building custom WordPress products(Themes & Plugins)  and WooCommerce plugins. Recently, I've been focusing on creating plugins that benefit the wider community. You can find some of my work here:
 
-- [njengah/plugins](https://njengah.com/products): A collection of free and premium plugins for WordPress and WooCommerce.
+- [Products](https://storemizer.com/products): A collection of free and premium plugins for WordPress and WooCommerce.
 - I'm also working on a new marketplace that will feature all the plugins I've built, along with a WordPress development tool.
 
 Feel free to explore my repository and reach out to me if you have any questions, collaboration opportunities, or just want to say hello!
