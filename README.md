@@ -1,4 +1,4 @@
-# Full Stack Developer || [Vanilla/Next/React/Node ||PHP/PYTHON/ WordPress] 
+# Full Stack Developer ~ [Vanilla/Next/React/Node || PHP/PYTHON/WP] 
 
 ## About Me
 
