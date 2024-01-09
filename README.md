@@ -8,7 +8,7 @@ Hello! I'm Joe Njenga, a Full Stack Web Developer proficient in PHP, JavaScript,
 - 📦 I'm also developing both free and premium web & mobile software
 - 🎓 I'm currently expanding my skills and knowledge in the field of Artificial Intelligence.
 
-## JavaScript Development
+## JavaScript/ React / Vue / Next / Node Development
 
 I'm passionate about JavaScript and have expertise in various frameworks and libraries, including:
 
