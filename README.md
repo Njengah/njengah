@@ -1,4 +1,4 @@
-# Welcome 
+# Full Stack Developer || [Frontend-> Js ->Vanilla/Next/React/Node || Backend PHP/PYTHON] 
 
 ## About Me
 
