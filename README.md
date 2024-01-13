@@ -1,5 +1,7 @@
 # Full Stack Developer ~ [JS/Next/React/Node || PHP/PYTHON/WP] 
 
+![NJENGAH's github stats](https://github-readme-stats.vercel.app/api?username=njengah&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ## About Me
 
 Hello! I'm Joe Njenga, a Full Stack Web Developer proficient in PHP, JavaScript, React, Vue, and Node.js. I have a passion for creating web applications and solving complex problems.
