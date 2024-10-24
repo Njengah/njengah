@@ -4,7 +4,7 @@
 
 Hello! I'm Joe Njenga, a passionate Full Stack Web Developer proficient in PHP, JavaScript, React, Vue, Node.js, and Python, and experienced in database technologies including SQL and NoSQL (MongoDB, MySQL). I have a strong background in creating web applications and solving complex problems.
 
-- 🏢 I currently work as a freelance Full Stack Developer || [HTML/CSS/PHP/WordPress/JS/React/Node/Python] at [NJENGAH](https://njengah.com/developer).
+- 🏢 I currently work as a freelance Full Stack Developer || [HTML/CSS/PHP/WordPress/JS/React/Node/Python] at [NJENGAH](https://njengah.com/contact).
 - 📦 I'm actively developing both free and premium web & mobile software.
 - 🎓 I'm continuously expanding my skills and knowledge in the field of Artificial Intelligence.
 
@@ -44,7 +44,21 @@ I have a strong background in PHP development and have worked on numerous projec
 
 I have extensive experience building custom WordPress products (Themes and plugins) and WooCommerce plugins. Recently, I've been focusing on creating plugins that benefit the wider community. You can find some of my work here:
 
-- [Products](https://storemizer.com/products/): A collection of free and premium plugins for WordPress and WooCommerce.
+- [Products](https://storemizer.com/): A collection of free and premium plugins for WordPress and WooCommerce.
 - I'm also working on a new marketplace that will feature all the plugins I've built, along with a WordPress development tool.
 
 Feel free to explore my repository and reach out to me if you have any questions, or collaboration opportunities, or just want to say hello.
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njengah&layout=compact&theme=dark" alt="njengah">
+</div>
+
+<div align="center">
+  <a href="https://wakatime.com/@Njengah">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Njengah&layout=compact&theme=dark" alt="NJENGAH">
+  </a>
+
+  
+</div>
+
