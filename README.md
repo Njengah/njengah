@@ -22,4 +22,3 @@ I'm a WordPress Developer & Fullstack SWE, specializing in React, Vue.js, Next.j
 </div>
 
 Let’s create something amazing together!
-
