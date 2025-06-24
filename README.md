@@ -1,6 +1,6 @@
 ## Hi, I'm Joe!  
 
-I'm a Software Engineer & AI Integration Specialist with 14 years of experience architecting scalable systems and intelligent automation pipelines. 
+I'm a Software Engineer with 14 years of experience architecting scalable systems and intelligent automation pipelines. 
 
 I work extensively with Python backend development, React/Vue.js/Next.js frontends, RESTful / GraphQL APIs, and integrating LLM capabilities into production applications.
 
