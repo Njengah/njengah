@@ -19,7 +19,7 @@ With 10+ years of experience building software, I specialize in creating intelli
 
 ### Hobby Projects (Weekend Side Project) 
 
-* Build Personal products
+* Build Personal Products
 
 
 **Interested in collaborating?**
