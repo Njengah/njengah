@@ -1,9 +1,28 @@
-## Hi, I'm Joe!  
+# Hi, I'm Joe! 👋
 
-I'm a Software Engineer with 14 years of experience architecting scalable systems and intelligent automation pipelines. 
+Software & AI Automation Engineer | Tech Writer | Educator
+With 10+ years of experience building software, I specialize in creating intelligent automation solutions that bridge the gap between cutting-edge AI and practical business applications.
 
-I work extensively with Python backend development, React/Vue.js/Next.js frontends, RESTful / GraphQL APIs, and integrating LLM capabilities into production applications.
+## Tech Stack & Expertise
+* I work extensively with Python, React, Vue.js, Next.js frontends, RESTful and GraphQL APIs, and large language models (OpenAI, Claude, DeepSeek, Qwen).
+* My current focus centers on AI automation and building innovative solutions, including MCP servers and AI agents, while implementing AI solutions across various industries.
 
-My focus is on building robust, API-driven architectures that seamlessly connect traditional software systems with modern AI technologies to solve complex engineering challenges.
+### My Passion - Tech Education
+* I write about software engineering and AI development, sharing insights from both the technical and entrepreneurial perspectives of turning AI research into automation products and solutions.
+* I run a YouTube channel where I review the latest AI tools and models and share insightful tutorials on using AI for software development.
 
-**Interested in collaborating?** [Let’s connect](https://njengah.com/contact) and explore how we can bring your vision to life.
+### My Day-to-Day Work:
+
+* Build software 
+* AI integrations & automation solutions for existing products
+* Write about building software and AI integration
+
+### Current Hobby Projects:
+
+* Build my software products.
+
+
+
+**Interested in collaborating?**
+
+[Let’s connect](https://njengah.com/contact) and explore how we can work together.
