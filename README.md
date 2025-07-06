@@ -11,16 +11,15 @@ With 10+ years of experience building software, I specialize in creating intelli
 * I write about software engineering and AI development, sharing insights from both the technical and entrepreneurial perspectives of turning AI research into automation products and solutions.
 * I run a YouTube channel where I review the latest AI tools and models and share insightful tutorials on using AI for software development.
 
-### My Day-to-Day Work:
+### My Day-to-Day Work (Consulting) 
 
-* Build software 
-* AI integrations & automation solutions for existing products
-* Write about building software and AI integration
+* Building Software 
+* AI Integration & Automation 
+* Technical Writing
 
-### Current Hobby Projects:
+### Hobby Projects (Weekend Side Project) 
 
-* Build my software products.
-
+* Build Personal products
 
 
 **Interested in collaborating?**
