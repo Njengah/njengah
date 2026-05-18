@@ -20,9 +20,9 @@
 
 ## Start Here
 
-These are the best entry points into my current AI engineering work:
+These are the best entry points into my current AI work:
 
-| Resource | Why It Matters |
+| Resource | Description |
 | --- | --- |
 | [400+ AI tools, testing reviews, and tutorials](https://medium.com/@joe.njenga) | My public research log for model releases, AI coding tools, automation workflows, and AI engineering patterns |
 | [Claude Code Cheat Sheet](https://github.com/Njengah/claude-code-cheat-sheet) | A practical Claude Code reference covering commands, workflows, subagents, automation, and power-user usage |
@@ -30,13 +30,13 @@ These are the best entry points into my current AI engineering work:
 | [AutoWP MCP](https://github.com/Njengah/autowpmcp) | A real MCP server that connects Claude to WordPress publishing workflows |
 | [Claude Code Masterclass](https://newsletter.claudecodemasterclass.com/) | My newsletter and course ecosystem for Claude Code, Codex, agents, and AI-native development |
 
-## Building In Public Around AI Engineering
+##  AI Engineering
 
 I am focused on the practical discipline of AI engineering: building intelligent software systems that combine LLMs, agents, tools, automations, integrations, evaluations, and human workflows.
 
 Over the last year, I have been building public authority in this space by testing new AI tools, publishing deep technical content, reviewing industry trends, and teaching developers how to use AI systems in real work.
 
-| Signal | Proof |
+| Platform / Skill | Content / Audience |
 | --- | --- |
 | Technical writing | 400+ articles on AI, software engineering, automation, AI coding, and developer tooling |
 | Medium audience | 23K+ followers across AI and software engineering content |
@@ -45,7 +45,7 @@ Over the last year, I have been building public authority in this space by testi
 | Product education | Building a Claude Code, Codex, agents, and AI engineering course ecosystem |
 | Industry coverage | Reviewing major AI coding tools, model releases, AI workflow platforms, and emerging trends |
 
-## The Portfolio Argument
+## Portfolio 
 
 My GitHub portfolio is built around one practical argument:
 
@@ -59,7 +59,7 @@ Tutorial -> Working repo -> Test workflow -> Review notes -> Article/video/cours
 
 This creates a portfolio that is not based on promises. It is based on repeated public experiments.
 
-## What I Study, Test, And Build
+## I Study, Test, & Build
 
 I actively test and document the fast-moving AI engineering stack, including:
 
@@ -73,7 +73,7 @@ My goal is not just to react to new tools. I study how they change software deve
 
 ## Core Testing Projects
 
-These are the projects that currently anchor my AI engineering portfolio:
+These are the projects that currently anchor my portfolio:
 
 | Project | What It Proves | Status |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ These are the projects that currently anchor my AI engineering portfolio:
 | Model Release Test Log | Repeatable tests for coding, reasoning, refactoring, debugging, agent behavior, context handling, and workflow reliability | Building |
 | AI Tutorial Test Projects | Repos generated from my most popular Medium tutorials and newsletter masterpieces, each with code, prompts, workflows, notes, and results | Building |
 
-## Tutorial-Driven Portfolio System
+## Tutorials
 
 My strongest tutorials and newsletter essays become portfolio projects with a consistent structure:
 
@@ -110,9 +110,9 @@ Agentic Coding        -> Claude Code, Codex, Cursor, MCP, subagents, hooks, and 
 Developer Education   -> Articles, newsletters, YouTube, courses, playbooks, and project-based learning
 ```
 
-## My AI Engineering Lab
+## My Testing
 
-This GitHub profile is becoming a public lab for the systems I test, write about, review, and teach.
+ I test, write about, review, and teach.
 
 | Project Direction | What It Will Demonstrate |
 | --- | --- |
@@ -166,6 +166,6 @@ That means building around:
 
 ## Collaboration
 
-I am open to collaborations around AI engineering, AI automation, developer tooling, technical education, AI research translation, and agentic software systems.
+I am open to collaborations around AI engineering, automation, developer tooling, technical education, research translation, and agentic software systems.
 
 If you are building with AI and need help turning ideas into working systems, reach me through [njengah.com/contact](https://njengah.com/contact).
