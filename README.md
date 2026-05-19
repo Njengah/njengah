@@ -82,7 +82,7 @@ I run structured evaluations across the AI engineering stack and publish the res
 
 ## How I Teach
 
-400+ published articles and tutorials. 70K newsletter subscribers. 23K Medium followers. A YouTube channel with demos, model tests, and workflow walkthroughs.
+500+ published articles and tutorials. 70K newsletter subscribers. 23K Medium followers. A YouTube channel with demos, model tests, and workflow walkthroughs.
 
 | Channel | Focus |
 | --- | --- |
