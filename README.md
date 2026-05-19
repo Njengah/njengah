@@ -34,7 +34,7 @@ These are the best entry points into my current AI work:
 
 ---
 
-## AI Education / Technical Writing 
+## AI Technical Education
 
 I am focused on the practical discipline of AI engineering: building intelligent software systems that combine LLMs, agents, tools, automations, integrations, evaluations, and human workflows.
 
@@ -51,7 +51,7 @@ Over the last year, I have been testing new AI tools, publishing deep technical 
 
 ## What I'm Building - AI Projects 
 
-| Project | What It Does | Why It Matters | Status |
+| Project | What It Does | Pain Point Solved | Status |
 | --- | --- | --- | --- |
 | [AgentTrace](https://github.com/Njengah/agent-trace) | Records AI coding tasks, Git diffs, test evidence, review notes, PR metadata, EvalOps evidence, and local dashboard reports | Gives teams an audit trail for AI-assisted coding instead of vague "the agent fixed it" claims | Public |
 | MCPGuard | Governance, approvals, policy, and audit trails for MCP tool calls | Helps teams safely connect AI agents to external tools and sensitive systems | Building next |
