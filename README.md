@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  I design, build, and ship developer tools for AI coding agents: from observability and governance layers to MCP integrations and evaluation frameworks.<br> I also test frontier models, review AI developer platforms, and teach 100K+ engineers how to build with AI through long-form technical writing, courses, and open-source references.
+  I design, build, and ship developer tools for AI coding agents: from observability and governance layers to MCP integrations and evaluation frameworks.<br> <br>I also test frontier models, review AI developer platforms, and teach 100K+ engineers how to build with AI through long-form technical writing, courses, and open-source references.
 </p>
 <br>
 
