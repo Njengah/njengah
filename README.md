@@ -118,5 +118,5 @@ Python, TypeScript, JavaScript, React, Next.js, Vue, REST APIs, GraphQL, LLM API
 
 I'm open to roles and collaborations in AI engineering, developer tooling, agent infrastructure, and technical education.
 
-Reach me at [njengah.com/contact](https://njengah.com/contact).
+<a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Reach%20Me-njengah.com%2Fcontact-16A34A?style=for-the-badge" alt="Contact"></a>
 
