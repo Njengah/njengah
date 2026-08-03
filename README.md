@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Joe 👋</h1>
 
 <p align="left">
-  <strong>AI Engineer | Researcher | Educator | Building Infrastructure for AI-Native Development</strong>
+  <strong>AI Engineer | Researcher & Educator | Building & Integrating AI Infrastructure, AI Apps - RAG | LLMs | Agentic Engineering Workflows </strong>
 </p>
 
 <p align="left">
@@ -12,15 +12,13 @@
 <p align="left">
   <a href="https://medium.com/@joe.njenga"><img src="https://img.shields.io/badge/Medium-23K%2B%20Followers-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://newsletter.claudecodemasterclass.com/"><img src="https://img.shields.io/badge/Newsletter-70K%2B%20Subscribers-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"></a>
-  <a href="https://github.com/Njengah/claude-code-cheat-sheet"><img src="https://img.shields.io/github/stars/Njengah/claude-code-cheat-sheet?style=for-the-badge&logo=github&label=Claude%20Code%20Cheat%20Sheet" alt="Claude Code Cheat Sheet stars"></a>
-  <a href="https://github.com/Njengah/agent-trace"><img src="https://img.shields.io/badge/AgentTrace-AI%20Agent%20Audit%20Layer-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AgentTrace"></a>
   <a href="https://njengah.com"><img src="https://img.shields.io/badge/Website-njengah.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Work%20With%20Me-Contact-16A34A?style=for-the-badge" alt="Contact"></a>
 </p>
 
 ---
 
-## Technical Stack
+## AI Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -40,9 +38,9 @@ Python, TypeScript, JavaScript, React, Next.js, Vue, REST APIs, GraphQL, LLM API
 
 ---
 
-## Let's Work Together
+## Collaboration
 
-I'm open to roles and collaborations in AI engineering, developer tooling, agent infrastructure, and technical education.
+I'm open to roles and collaborations in AI engineering, developer tooling, agent infrastructure, and technical education. Let's Work Together.
 
 <a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Reach%20Me-njengah.com%2Fcontact-16A34A?style=for-the-badge" alt="Contact"></a>
 
