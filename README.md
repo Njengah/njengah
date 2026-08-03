@@ -13,7 +13,7 @@
   <a href="https://medium.com/@joe.njenga"><img src="https://img.shields.io/badge/Medium-23K%2B%20Followers-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://newsletter.claudecodemasterclass.com/"><img src="https://img.shields.io/badge/Newsletter-70K%2B%20Subscribers-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"></a>
   <a href="https://njengah.com"><img src="https://img.shields.io/badge/Website-njengah.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Work%20With%20Me-Contact-16A34A?style=for-the-badge" alt="Contact"></a>
+ 
 </p>
 
 ---
@@ -43,4 +43,5 @@ Python, TypeScript, JavaScript, React, Next.js, Vue, REST APIs, GraphQL, LLM API
 I'm open to roles and collaborations in AI engineering, developer tooling, agent infrastructure, and technical education. Let's Work Together.
 
 <a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Reach%20Me-njengah.com%2Fcontact-16A34A?style=for-the-badge" alt="Contact"></a>
+ <a href="https://njengah.com/contact"><img src="https://img.shields.io/badge/Work%20With%20Me-Contact-16A34A?style=for-the-badge" alt="Contact"></a>
 
